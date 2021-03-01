@@ -1,4 +1,4 @@
-module cutover-demo
+module github.com/saidmu/cutover-demo
 
 go 1.15
 
